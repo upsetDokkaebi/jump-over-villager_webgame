@@ -26,13 +26,17 @@ This project is built with plain HTML, CSS, and JavaScript. It does not require 
 
 ## How to run
 
-### Option 1: Open directly in browser
+### Option 1: Open on browser
+
+[Click here to see demo](https://jump-over-villager.vercel.app/)
+
+### Option 2: Open directly in browser
 
 1. Open the project folder.
 2. Double-click `index.html`.
 3. The game should load in your default browser.
 
-### Option 2: Run a local web server
+### Option 3: Run a local web server
 
 From the project folder, run:
 
@@ -46,6 +50,21 @@ Then open:
 http://localhost:8000
 ```
 
+## Image assets
+
+These are examples of the main sprite and background art used in the game:
+
+### Characters
+![Steve](img/steve/1.png)
+![Alex](img/alex/1.png)
+![Sunny](img/sunny/1.png)
+![Villager](img/villager/1.png)
+
+### Screenshots
+![Desert background](assets/start-menu.png)
+![Desert background](assets/in-game.png)
+![Desert background](assets/game-over.png)
+
 ## Controls
 
 - `Space` or `Up Arrow` — jump
@@ -54,9 +73,12 @@ http://localhost:8000
 
 ## Notes
 
+- This game only playable in web desktop view.
 - The project relies on local asset files, so it is best to run it from the project folder.
 - Because it is a static front-end game, no installation or dependency setup is required.
 
 ## Credits
 
 This project uses original web assets and custom CSS/JavaScript gameplay created for the game experience.
+
+Created by: [upsetDokkaebi](https://github.com/upsetDokkaebi)
