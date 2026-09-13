@@ -50,20 +50,11 @@ Then open:
 http://localhost:8000
 ```
 
-## Image assets
+## Screenshots
 
-These are examples of the main sprite and background art used in the game:
-
-### Characters
-![Steve](img/steve/1.png)
-![Alex](img/alex/1.png)
-![Sunny](img/sunny/1.png)
-![Villager](img/villager/1.png)
-
-### Screenshots
-![Desert background](assets/start-menu.png)
-![Desert background](assets/in-game.png)
-![Desert background](assets/game-over.png)
+![Start menu](assets/start-menu.png)
+![Ingame](assets/in-game.png)
+![gameover](assets/game-over.png)
 
 ## Controls
 
